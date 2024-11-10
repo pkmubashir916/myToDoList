@@ -1,2 +1,3 @@
 # myToDoList
-for reminding daily activities
+for reminding daily activities or monthly activities 
+
